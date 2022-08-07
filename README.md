@@ -1,2 +1,1 @@
-# Tindog
-Bootstrap Introductory Project
+TinDog Starting Files
